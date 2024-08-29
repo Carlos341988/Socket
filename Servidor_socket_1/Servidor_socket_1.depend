@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1724440241 source:c:\users\carlos\onedrive\documentos\codeblocks\servidor_socket_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<unistd.h>
+
+1724608021 source:f:\users\ericj\desktop\programacion\c\servidor_socket_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<unistd.h>
+
+1724962646 source:c:\users\carlos\downloads\servidor_socket_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+

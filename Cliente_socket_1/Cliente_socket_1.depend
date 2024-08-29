@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1724440376 source:c:\users\carlos\onedrive\documentos\codeblocks\cliente_socket_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1724610918 source:f:\users\ericj\desktop\programacion\c\cliente_socket_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdbool.h>
+	<pthread.h>
+
+1724961223 source:c:\users\carlos\downloads\cliente_socket_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdbool.h>
+	<pthread.h>
+
